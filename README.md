@@ -10,6 +10,7 @@ This course is part of AI for Medicine Specialization by DeepLearning.AI
 * Build a CNN model to diagnose chest X-rays.
 
 **Week 2: Evaluation of Diagnostic Models**
+![image](https://github.com/HayLahav/AI-for-Medical-Diagnosis/assets/111200362/7eefec27-68f9-480f-b915-64b2a6dc34bd)
 
 * Learn about the different metrics used to evaluate diagnostic models.
 * Apply these metrics to evaluate a CNN model.
