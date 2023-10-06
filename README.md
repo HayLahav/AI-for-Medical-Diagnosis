@@ -1,5 +1,6 @@
 # AI-for-Medical-Diagnosis
 This course is part of AI for Medicine Specialization by DeepLearning.AI
+![image](https://github.com/HayLahav/AI-for-Medical-Diagnosis/assets/111200362/d8b52e56-72da-42e7-aa7d-2ba318352722)
 
 **Week 1: Chest X-Ray Medical Diagnosis with Deep Learning**
 
